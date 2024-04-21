@@ -8,7 +8,7 @@ import { Button, Box } from "@mui/material";
 import { UilWallet } from "@iconscout/react-unicons";
 import { TextEdit } from "../../utils/index.jsx";
 
-const projectId = "9cae2090d6082bdce6d0ccf75b9c38f9";
+const projectId = "3a0e3a66e0b3c55c9f22c8c6aba34dd5";
 
 const sepolia = {
   chainId: 11155111,
