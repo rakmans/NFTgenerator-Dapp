@@ -4,9 +4,9 @@ In this project, you can create your NFT contract without typing code and with j
 You can track the token you made with this Dapp.\
 You can manage your nfts in this project 😃🥰
 
-![generator page image](https://i.postimg.cc/fW9fRssv/NFT-generator-1.png)
+![generator page image](https://i.postimg.cc/gjP81wnB/NFT-generator-1.png)
 
-![manager page image](https://i.postimg.cc/RVq6ZQwx/NFT-generator-4.png)
+![manager page image](https://i.postimg.cc/qvtqXJ7t/NFT-generator-4.png)
 
 ## Clone Repository
 
